@@ -1,120 +1,119 @@
-<p>- 👋 Hi, I&rsquo;m @erraghawmishra</p>
-<p>- 👀 I&rsquo;m interested in ... JavaScript, CSS, HTML, Python, and &nbsp;Java and C programming</p>
-<p>- 🌱 I&rsquo;m currently learning every high level programming language 😉</p>
-<p>- 💞️ I&rsquo;m looking to collaborate on various open source projects</p>
-<p>- 📫 How to reach me? Well! no need to!</p>
-<br>
-<p><strong>My HackerRank Certifications</strong></p>
-<table class=1 border=1 cellspacing=0 cellpadding=0 width=624 style='margin-left:
- .1pt;border-collapse:collapse;border:none'>
- <tr>
-  <td width=68 valign=top style='width:51.0pt;border:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
-  border:none'><b><span lang=EN style='font-size:10.5pt;color:#C9D1D9;
-  background:#0D1117'>S No</span></b></p>
-  </td>
-  <td width=307 valign=top style='width:230.25pt;border:solid black 1.0pt;
-  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
-  border:none'><b><span lang=EN style='font-size:10.5pt;color:#C9D1D9;
-  background:#0D1117'>Certification Name</span></b></p>
-  </td>
-  <td width=249 valign=top style='width:186.75pt;border:solid black 1.0pt;
-  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
-  border:none'><b><span lang=EN style='font-size:10.5pt;color:#C9D1D9;
-  background:#0D1117'>Certification Verification Link</span></b></p>
-  </td>
- </tr>
- <tr>
-  <td width=68 valign=top style='width:51.0pt;border:solid black 1.0pt;
-  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
-  border:none'><span lang=EN style='font-size:10.5pt;color:#C9D1D9;background:
-  #0D1117'>1</span></p>
-  </td>
-  <td width=307 valign=top style='width:230.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal style='line-height:normal;border:none'><span lang=EN
-  style='font-size:10.5pt;color:#C9D1D9;background:#0D1117'>Problem Solving
-  Certificate</span></p>
-  </td>
-  <td width=249 valign=top style='width:186.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal style='line-height:normal;border:none'><span lang=EN><a
-  href="https://www.hackerrank.com/certificates/0706e91d3cc5"><span
-  style='font-size:10.5pt;color:#1155CC;background:#0D1117'>Click me for the
-  verification!</span></a></span></p>
-  </td>
- </tr>
- <tr>
-  <td width=68 valign=top style='width:51.0pt;border:solid black 1.0pt;
-  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
-  border:none'><b><span lang=EN style='font-size:10.5pt;color:#C9D1D9;
-  background:#0D1117'>2</span></b></p>
-  </td>
-  <td width=307 valign=top style='width:230.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal style='line-height:normal;border:none'><span lang=EN
-  style='font-size:10.5pt;color:#C9D1D9;background:#0D1117'>Python Certificate</span></p>
-  </td>
-  <td width=249 valign=top style='width:186.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal style='line-height:normal'><span lang=EN><a
-  href="https://www.hackerrank.com/certificates/4524d7a57929"><span
-  style='font-size:10.5pt;color:#1155CC;background:#0D1117'>Click me for the
-  verification!</span></a></span></p>
-  </td>
- </tr>
- <tr>
-  <td width=68 valign=top style='width:51.0pt;border:solid black 1.0pt;
-  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
-  border:none'><b><span lang=EN style='font-size:10.5pt;color:#C9D1D9;
-  background:#0D1117'>3</span></b></p>
-  </td>
-  <td width=307 valign=top style='width:230.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal style='line-height:normal;border:none'><span lang=EN
-  style='font-size:10.5pt;color:#C9D1D9;background:#0D1117'>Java Certificate</span></p>
-  </td>
-  <td width=249 valign=top style='width:186.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal style='line-height:normal'><span lang=EN><a
-  href="https://www.hackerrank.com/certificates/e6edcb13b131"><span
-  style='font-size:10.5pt;color:#1155CC;background:#0D1117'>Click me for the
-  verification!</span></a></span></p>
-  </td>
- </tr>
- <tr>
-  <td width=68 valign=top style='width:51.0pt;border:solid black 1.0pt;
-  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal align=center style='text-align:center;line-height:normal;
-  border:none'><b><span lang=EN style='font-size:10.5pt;color:#C9D1D9;
-  background:#0D1117'>4</span></b></p>
-  </td>
-  <td width=307 valign=top style='width:230.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal style='line-height:normal;border:none'><span lang=EN
-  style='font-size:10.5pt;color:#C9D1D9;background:#0D1117'>JavaScript
-  Certificate</span></p>
-  </td>
-  <td width=249 valign=top style='width:186.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
-  <p class=MsoNormal style='line-height:normal'><span lang=EN><a
-  href="https://www.hackerrank.com/certificates/841950f98753"><span
-  style='font-size:10.5pt;color:#1155CC;background:#0D1117'>Click me for the
-  verification!</span></a></span></p>
-  </td>
- </tr>
+<p><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;"> Hi, I&rsquo;m @erraghawmishra</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;"> I&rsquo;m interested in ... JavaScript, CSS, HTML, Python, and&nbsp; Java, and C programming</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;"> I&rsquo;m currently learning every high-level programming language </span></p>
+<p><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;"> I&rsquo;m looking to collaborate on various open-source projects</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;"> How to reach me? Well! no need to!</span></p>
+<p>&nbsp;</p>
+<p><strong>Python Programming Specialisation Certifications, From the University of Michigan on Coursera</strong></p>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>S. no</strong></p>
+</td>
+<td>
+<p><strong>Certification Name</strong></p>
+</td>
+<td>
+<p><strong>Certificate Verification Link</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>1</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Python Programming Specialisation&nbsp;</span></p>
+</td>
+<td>
+<p><a href="https://www.coursera.org/account/accomplishments/specialization/LEDHAFD4XUGW"><span style="font-weight: 400;">Click me for the verification!</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>2</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Python Data Structures</span></p>
+</td>
+<td>
+<p><a href="https://www.coursera.org/account/accomplishments/verify/UZK9XB87PVRM"><span style="font-weight: 400;">Click me for the verification!</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>3</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Using Databases with Python</span></p>
+</td>
+<td>
+<p><a href="https://www.coursera.org/account/accomplishments/verify/G2EYDCHAAJ6D"><span style="font-weight: 400;">Click me for the verification!</span></a></p>
+</td>
+</tr>
+</tbody>
 </table>
+<p>&nbsp;</p>
+<p><strong>My HackerRank Certifications</strong></p>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>S No</strong></p>
+</td>
+<td>
+<p><strong>Certification Name</strong></p>
+</td>
+<td>
+<p><strong>Certificate Verification Link</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>1</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Problem Solving Certificate</span></p>
+</td>
+<td>
+<p><a href="https://www.hackerrank.com/certificates/0706e91d3cc5"><span style="font-weight: 400;">Click me for the verification!</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>2</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Python Certificate</span></p>
+</td>
+<td>
+<p><a href="https://www.hackerrank.com/certificates/4524d7a57929"><span style="font-weight: 400;">Click me for the verification!</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>3</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Java Certificate</span></p>
+</td>
+<td>
+<p><a href="https://www.hackerrank.com/certificates/e6edcb13b131"><span style="font-weight: 400;">Click me for the verification!</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>4</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">JavaScript Certificate</span></p>
+</td>
+<td>
+<p><a href="https://www.hackerrank.com/certificates/841950f98753"><span style="font-weight: 400;">Click me for the verification!</span></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
