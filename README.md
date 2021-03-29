@@ -3,8 +3,6 @@
 <p>- 🌱 I&rsquo;m currently learning every high level programming language 😉</p>
 <p>- 💞️ I&rsquo;m looking to collaborate on various open source projects</p>
 <p>- 📫 How to reach me? Well! no need to!</p>
-<br>
-<p>&nbsp;</p>
 <p><strong>Python Programming Specialisation Certifications, From the University of Michigan on Coursera</strong></p>
 <p>&nbsp;</p>
 <table>
@@ -55,7 +53,6 @@
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong>My HackerRank Certifications</strong></p>
 <p>&nbsp;</p>
 <table>
