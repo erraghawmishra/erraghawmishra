@@ -1,10 +1,11 @@
-<p>- 👋 Hi, I&rsquo;m @erraghawmishra</p>
-<p>- 👀 I&rsquo;m interested in ... JavaScript, CSS, HTML, Python, and &nbsp;Java and C programming</p>
-<p>- 🌱 I&rsquo;m currently learning every high level programming language 😉</p>
-<p>- 💞️ I&rsquo;m looking to collaborate on various open source projects</p>
-<p>- 📫 How to reach me? Well! no need to!</p>
+<p>👋 Hi, I&rsquo;m @erraghawmishra</p>
+<p>👀 I&rsquo;m interested in ... JavaScript, CSS, HTML, Python, and &nbsp;Java and C programming</p>
+<p>🌱 I&rsquo;m currently learning every high level programming language 😉</p>
+<p>💞️ I&rsquo;m looking to collaborate on various open source projects</p>
+<p>📫 How to reach me? Well! no need to!</p>
+<br>
 <p><strong>Python Programming Specialisation Certifications, From the University of Michigan on Coursera</strong></p>
-<p>&nbsp;</p>
+<br>
 <table>
 <tbody>
 <tr>
@@ -53,8 +54,9 @@
 </tr>
 </tbody>
 </table>
+<br>
 <p><strong>My HackerRank Certifications</strong></p>
-<p>&nbsp;</p>
+<br>
 <table>
 <tbody>
 <tr>
