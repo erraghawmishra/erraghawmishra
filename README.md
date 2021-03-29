@@ -4,7 +4,7 @@
 <p>💞️ I&rsquo;m looking to collaborate on various open source projects</p>
 <p>📫 How to reach me? Well! no need to!</p>
 
-<b><u> 🤓 Demonstrable passion and knowledge for the high-level programming languages and the website development technologies 🤓</u></b>
+<b><u> 🤓 Demonstrable passion and knowledge for the high-level programming languages and website development technologies 🤓</u></b>
 <p>
   <a href="https://github.com/erraghawmishra/My-Achievements-certifications">Click here to visit My Achievements Section</a>
 <p><strong><a href="https://www.coursera.org/account/accomplishments/specialization/LEDHAFD4XUGW" target="_blank">Python 3 Programming Specialisation Certification</a>, From the University of Michigan on Coursera</strong></p>
