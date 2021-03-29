@@ -9,7 +9,7 @@
     <thead>
         <tr>
             <th>Certification Name<br></th>
-            <th>Certification Link<br></th>
+            <th>Certification Verification Link<br></th>
         </tr>
     </thead>
     <tbody>
