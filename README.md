@@ -4,7 +4,7 @@
 <p>💞️ I&rsquo;m looking to collaborate on various open source projects</p>
 <p>📫 How to reach me? Well! no need to!</p>
 <br>
-<p><strong>Python 3 Programming Specialisation Certification, From the University of Michigan on Coursera</strong></p>
+<p><strong><a href="https://www.coursera.org/account/accomplishments/specialization/LEDHAFD4XUGW">Python 3 Programming Specialisation Certification</a>, From the University of Michigan on Coursera</strong></p>
 <img src="https://github.com/erraghawmishra/python3/blob/8cb044829c9d3b8e387dd23e681685e3a71172ab/Python%20Specialisation.jpg" alt="Python 3 Programming Specialisation" width="950" height="600">
 <br>
 <table>
@@ -25,7 +25,7 @@
 <p><strong>1</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">Python Programming Specialisation&nbsp;</span></p>
+<p><span style="font-weight: 400;">Python 3 Programming Specialisation&nbsp;</span></p>
 </td>
 <td>
 <p><a href="https://www.coursera.org/account/accomplishments/specialization/LEDHAFD4XUGW"><span style="font-weight: 400;">Click me for the verification!</span></a></p>
