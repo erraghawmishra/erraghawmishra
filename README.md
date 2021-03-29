@@ -5,7 +5,7 @@
 <p>📫 How to reach me? Well! no need to!</p>
 <br>
 <p><strong><a href="https://www.coursera.org/account/accomplishments/specialization/LEDHAFD4XUGW">Python 3 Programming Specialisation Certification</a>, From the University of Michigan on Coursera</strong></p>
-<img src="https://github.com/erraghawmishra/python3/blob/8cb044829c9d3b8e387dd23e681685e3a71172ab/Python%20Specialisation.jpg" alt="Python 3 Programming Specialisation" width="950" height="600">
+<img src="https://github.com/erraghawmishra/python3/blob/8cb044829c9d3b8e387dd23e681685e3a71172ab/Python%20Specialisation.jpg" alt="Python 3 Programming Specialisation" width="500" height="250">
 <br>
 <table>
 <tbody>
