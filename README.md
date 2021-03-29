@@ -3,7 +3,7 @@
 <p>- 🌱 I&rsquo;m currently learning every high level programming language 😉</p>
 <p>- 💞️ I&rsquo;m looking to collaborate on various open source projects</p>
 <p>- 📫 How to reach me? Well! no need to!</p>
-<p><br></p>
+<br>
 <p><strong>My HackerRank Certifications</strong></p>
 <table class=1 border=1 cellspacing=0 cellpadding=0 width=624 style='margin-left:
  .1pt;border-collapse:collapse;border:none'>
