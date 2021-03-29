@@ -1,8 +1,9 @@
-<p><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;"> Hi, I&rsquo;m @erraghawmishra</span></p>
-<p><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;"> I&rsquo;m interested in ... JavaScript, CSS, HTML, Python, and&nbsp; Java, and C programming</span></p>
-<p><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;"> I&rsquo;m currently learning every high-level programming language </span></p>
-<p><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;"> I&rsquo;m looking to collaborate on various open-source projects</span></p>
-<p><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;"> How to reach me? Well! no need to!</span></p>
+<p>- 👋 Hi, I&rsquo;m @erraghawmishra</p>
+<p>- 👀 I&rsquo;m interested in ... JavaScript, CSS, HTML, Python, and &nbsp;Java and C programming</p>
+<p>- 🌱 I&rsquo;m currently learning every high level programming language 😉</p>
+<p>- 💞️ I&rsquo;m looking to collaborate on various open source projects</p>
+<p>- 📫 How to reach me? Well! no need to!</p>
+<br>
 <p>&nbsp;</p>
 <p><strong>Python Programming Specialisation Certifications, From the University of Michigan on Coursera</strong></p>
 <p>&nbsp;</p>
