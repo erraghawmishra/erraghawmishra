@@ -1,3 +1,4 @@
+<head><meta name="google-site-verification" content="gKmdorjSRUvsxUWMu4A5HuwM41EZjXbDgr_EI-lWxd8" /></head>
 <p>👋 Hi, I&rsquo;m @erraghawmishra</p>
 <p>👀 I&rsquo;m interested in ... JavaScript, CSS, HTML, Python, and &nbsp;Java and C programming</p>
 <p>🌱 I&rsquo;m currently learning every high level programming language 😉</p>
