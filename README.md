@@ -8,7 +8,7 @@
 <p>
   <a href="https://github.com/erraghawmishra/My-Achievements-certifications">Click here to visit My Achievements Section</a>
 <p><strong><a href="https://www.coursera.org/account/accomplishments/specialization/LEDHAFD4XUGW" target="_blank">Python 3 Programming Specialisation Certification</a>, From the University of Michigan on Coursera</strong></p>
-<img src="https://github.com/erraghawmishra/python3/blob/8cb044829c9d3b8e387dd23e681685e3a71172ab/Python%20Specialisation.jpg" alt="Python 3 Programming Specialisation" width="500" height="250">
+<img src="https://github.com/erraghawmishra/My-Achievements-certifications/blob/31655511fb1e6dc8eb347ad621e89d6c47cc7569/Python%20Specialisation.jpg" width="500" height="250">
 <br>
 <table>
 <tbody>
@@ -61,6 +61,7 @@
 <br>
 <p><strong>My HackerRank Certifications</strong></p>
 <br>
+<img src="https://github.com/erraghawmishra/My-Achievements-certifications/blob/31655511fb1e6dc8eb347ad621e89d6c47cc7569/JavaScript%20HackerRank%20Certification.png" alt="Python 3 Programming Specialisation" width="500" height="250"><br>
 <table>
 <tbody>
 <tr>
