@@ -12,7 +12,7 @@
   <img src="https://github.com/erraghawmishra/My-Achievements-certifications/blob/f8d65aad20238a02b9a90c45270b240e58764c0e/Web%20development%20Specialisation-page-001.jpg" width="800" height="450">
   <br>
   
-  <p><strong><a href="https://www.coursera.org/account/accomplishments/verify/V4DNLRP6EZWB">Front-End Web Development with React</a>, The Hong Kong University of Science and Technology</strong></p>
+  <p><strong><a href="https://www.coursera.org/account/accomplishments/verify/V4DNLRP6EZWB">Front-End Web Development with React</a>, from The Hong Kong University of Science and Technology</strong></p>
 <img src="https://github.com/erraghawmishra/My-Achievements-certifications/blob/688e70bd6c812cb05fb19d238e76c7f15833eaa4/Front-End%20Web%20Development%20with%20React.jpg" width="800" height="450">
 
   
