@@ -14,7 +14,10 @@
   
   <p><strong><a href="https://www.coursera.org/account/accomplishments/verify/V4DNLRP6EZWB">Front-End Web Development with React</a>, from The Hong Kong University of Science and Technology</strong></p>
 <img src="https://github.com/erraghawmishra/My-Achievements-certifications/blob/688e70bd6c812cb05fb19d238e76c7f15833eaa4/Front-End%20Web%20Development%20with%20React.jpg" width="800" height="450">
-
+<br>
+  <p><strong><a href="https://www.hackerrank.com/certificates/841950f98753">JavaScript Certification from the HackerRank</a></strong></p>
+  <img src="https://github.com/erraghawmishra/My-Achievements-certifications/blob/688e70bd6c812cb05fb19d238e76c7f15833eaa4/JavaScript%20HackerRank%20Certification.png" width="800" height="450">
+<br>
   
 <p><strong><a href="https://www.coursera.org/account/accomplishments/specialization/LEDHAFD4XUGW" target="_blank">Python 3 Programming Specialisation Certification</a>, From the University of Michigan on Coursera</strong></p>
 <img src="https://github.com/erraghawmishra/My-Achievements-certifications/blob/31655511fb1e6dc8eb347ad621e89d6c47cc7569/Python%20Specialisation.jpg" width="800" height="450">
