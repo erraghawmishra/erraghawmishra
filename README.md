@@ -7,10 +7,19 @@
 <b><u> 🤓 Demonstrable passion and knowledge for the high-level programming languages and website development technologies 🤓</u></b>
 <p>
   <a href="https://github.com/erraghawmishra/My-Achievements-certifications">Click here to visit My Achievements Section</a>
+  <br>
+  <p><strong><a href="https://www.coursera.org/account/accomplishments/specialization/B9ELU3JUZKLY">Web Design for Everybody: Basics of Web Development & Coding</a>, From the University of Michigan on Coursera</strong></p>
+  <img src="https://github.com/erraghawmishra/My-Achievements-certifications/blob/f8d65aad20238a02b9a90c45270b240e58764c0e/Web%20development%20Specialisation-page-001.jpg" width="800" height="450">
+  <br>
+  
+  <p><strong><a href="https://www.coursera.org/account/accomplishments/verify/V4DNLRP6EZWB">Front-End Web Development with React</a>, The Hong Kong University of Science and Technology</strong></p>
+<img src="https://github.com/erraghawmishra/My-Achievements-certifications/blob/688e70bd6c812cb05fb19d238e76c7f15833eaa4/Front-End%20Web%20Development%20with%20React.jpg" width="800" height="450">
+
+  
 <p><strong><a href="https://www.coursera.org/account/accomplishments/specialization/LEDHAFD4XUGW" target="_blank">Python 3 Programming Specialisation Certification</a>, From the University of Michigan on Coursera</strong></p>
 <img src="https://github.com/erraghawmishra/My-Achievements-certifications/blob/31655511fb1e6dc8eb347ad621e89d6c47cc7569/Python%20Specialisation.jpg" width="800" height="450">
-<p><strong><a href="https://www.coursera.org/account/accomplishments/specialization/B9ELU3JUZKLY">Web Design for Everybody: Basics of Web Development & Coding</a>, From the University of Michigan on Coursera</strong></p>
-<img src="https://github.com/erraghawmishra/My-Achievements-certifications/blob/f8d65aad20238a02b9a90c45270b240e58764c0e/Web%20development%20Specialisation-page-001.jpg" width="800" height="450">
+
+
 
 <br>
 <table class="unchanged rich-diff-level-one" style='box-sizing: border-box; border-spacing: 0px; border-collapse: separate; display: block; width: max-content; max-width: 100%; overflow: auto; color: rgb(36, 41, 46); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: solid rgb(31, 17, 238);'>
